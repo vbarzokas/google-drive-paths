@@ -1,7 +1,6 @@
 {
   "name": "google-drive-paths",
   "description": "Retrieve all available paths of a file located in Google Drive",
-  "private": true,
   "version": "1.0.0",
   "engines": {
     "node": ">=0.10"
