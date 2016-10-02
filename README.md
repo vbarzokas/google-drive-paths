@@ -2,7 +2,7 @@
 
 A standalone Node module capable to interact with Goole Drive API v2 and retrieve a list with all the possible full paths of a file located in Google Drive.
 
-[![NPM](https://nodei.co/npm/greek-utils.png)](https://nodei.co/npm/google-drive-paths/)
+[![NPM](https://nodei.co/npm/google-drive-paths.png)](https://nodei.co/npm/google-drive-paths/)
 
 ##Installation steps
 1. `npm install google-drive-paths`
