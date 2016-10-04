@@ -21,7 +21,7 @@ getFilePaths(googleDriveClient, GOOLE_DRIVE_FILE_ID, '', function(paths) {
 ```javascript
 var google = require('googleapis'),
 	OAuth2 = google.auth.OAuth2,
-	getFilePaths = require('./index'),
+	getFilePaths = require('google-drive-paths'),
 	CLIENT_API_KEY = 'YOUR API KEY HERE',
 	CLIENT_API_SECRET = 'YOUR API SECRET HERE',
 	CLIENT_REDIRECT_URI = 'YOUR SPECIFIED REDIRECT URI HERE',
