@@ -1,12 +1,24 @@
 {
   "name": "google-drive-paths",
   "description": "Retrieve all available paths of a file located in Google Drive",
-  "version": "1.0.0",
-  "engines": {
-    "node": ">=0.10"
+  "version": "1.0.1",
+  "author": "Vassilis Barzokas",
+  "license": "MIT",
+  "main": "lib/get-file-paths.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vbarzokas/google-drive-paths.git"
   },
+  "scripts": {},
+  "keywords": [
+    "google drive",
+    "gdrive",
+    "file",
+    "full path"
+  ],
   "dependencies": {
     "googleapis": "^13.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+  }
 }
