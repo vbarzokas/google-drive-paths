@@ -62,4 +62,4 @@ getFilePaths(googleDriveClient, 'THE TARGET FILE ID HERE', '', function(paths) {
 ```
 
 ##Current version
-The current version is 1.0.0.
+The current version is 1.0.1.
